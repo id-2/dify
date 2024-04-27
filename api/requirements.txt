@@ -48,7 +48,7 @@ replicate~=0.22.0
 websocket-client~=1.7.0
 dashscope[tokenizer]~=1.17.0
 huggingface_hub~=0.16.4
-transformers~=4.35.0
+transformers~=4.40.1
 tokenizers~=0.15.0
 pandas==1.5.3
 xinference-client==0.9.4
